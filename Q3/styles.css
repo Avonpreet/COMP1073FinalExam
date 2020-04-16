@@ -1,0 +1,23 @@
+@charset "UTF-8";
+/* CSS Document */
+
+* {
+  box-sizing: border-box; 
+}
+
+
+
+
+
+p, 
+li {
+font-size: 2.5rem;
+    margin: auto;}
+
+
+section {
+  display:grid; 
+  justify-content:space-between; 
+}
+
+
